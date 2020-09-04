@@ -41,7 +41,7 @@
 
 ## ⚙ Executando
 
-  - ### *Requisitos*:
+  ### *Requisitos*:
 
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/)
@@ -55,19 +55,20 @@ $ git clone https://github.com/felipesgt/proffy.git && cd proffy
 
 2. Executando a Aplicação:
 
-
-```sh
-  # Executando a API
+  ### Executando a API
+```bash
   $ cd server
   # Instalando as dependências do projeto.
   $ yarn # ou npm install
   # Crie as tabelas do banco de dados.
   $ yarn knex:migrate # ou npm run knex:migrate
-
   # Inicie a API
   $ yarn start # ou npm start
+  ```
 
-  # Web
+
+  ### Web
+  ```bash
   # Certifique-se de que a API está rodando antes de qualquer coisa.
   # Agora acesse a pasta
   $ cd web
@@ -75,10 +76,11 @@ $ git clone https://github.com/felipesgt/proffy.git && cd proffy
   $ yarn # ou npm install
   # Inicie a aplicação web
   $ yarn start # ou npm start
+  ```
 
-  # Aplicação mobile
-  # Certifique-se de que a API está rodando antes de qualquer coisa.
+  ### Aplicação mobile
   ```bash
+  # Certifique-se de que a API está rodando antes de qualquer coisa.
   # Certifique-se de que o arquivo'packages/mobile/src/services/api.ts'
   # possui o IP da sua API fornecido pelo Expo.
   # Agora acesse a pasta
