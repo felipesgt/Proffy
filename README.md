@@ -67,10 +67,9 @@ $ git clone https://github.com/felipesgt/Pomodoro.git
   ```
 
 
-```
 
 
-## 📜 Licença
+   ## 📜 Licença
 
 Esse projeto está sob a licença MIT [LICENSE](LICENSE.md) 
 
