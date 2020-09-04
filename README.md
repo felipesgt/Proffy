@@ -12,12 +12,16 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/felipesgt/proffy?style=flat-square">
   <img alt="GitHub" src="https://img.shields.io/github/license/felipesgt/proffy?style=flat-square"> 
 </p>
+
+
+
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-usadas">Tecnologias Usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-executando">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="#-licença">Licença</a>
 </p>
+<img alt="Proffy" src=".github/prof.png" height="400px" />
 
 
 
