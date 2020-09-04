@@ -20,8 +20,9 @@
   <a href="#-tecnologias-usadas">Tecnologias Usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-executando">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="#-licença">Licença</a>
+    <img alt="Proffy" src=".github/prof.png" height="400px" />
+
 </p>
-<img alt="Proffy" src=".github/prof.png" height="400px" />
 
 
 
