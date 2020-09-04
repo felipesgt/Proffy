@@ -51,48 +51,22 @@
 - [Yarn](https://classic.yarnpkg.com/)
 - [Expo](https://expo.io/)
 
-1. Clone o projeto com o Git e entre na pasta.
+1. Clone o projeto com o Git.
 
 ```bash
-$ git clone https://github.com/felipesgt/proffy.git && cd proffy
+$ git clone https://github.com/felipesgt/Pomodoro.git
 ```
 
-2. Executando a Aplicação:
+2. Rodando o aplicativo:
 
-  ### Executando a API
 ```bash
-  $ cd server
-  # Instalando as dependências do projeto.
-  $ yarn # ou npm install
-  # Crie as tabelas do banco de dados.
-  $ yarn knex:migrate # ou npm run knex:migrate
-  # Inicie a API
-  $ yarn start # ou npm start
-  ```
-
-
-  ### Web
-  ```bash
-  # Certifique-se de que a API está rodando antes de qualquer coisa.
-  # Agora acesse a pasta
-  $ cd web
   # Instale as dependências do projeto.
   $ yarn # ou npm install
-  # Inicie a aplicação web
+  # Inicie o Aplicativo
   $ yarn start # ou npm start
   ```
 
-  ### Aplicação mobile
-  ```bash
-  # Certifique-se de que a API está rodando antes de qualquer coisa.
-  # Certifique-se de que o arquivo'packages/mobile/src/services/api.ts'
-  # possui o IP da sua API fornecido pelo Expo.
-  # Agora acesse a pasta
-  $ cd mobile
-  # Instalando as dependências do projeto.
-  $ yarn # ou npm install
-  # Inicie a aplicação mobile
-  $ yarn start # ou npm start
+
 ```
 
 
