@@ -55,7 +55,7 @@
 1. Clone o projeto com o Git.
 
 ```bash
-$ git clone https://github.com/felipesgt/Pomodoro.git
+$ git clone https://github.com/felipesgt/Proffy.git
 ```
 
 2. Rodando o aplicativo:
