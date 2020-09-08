@@ -59,18 +59,42 @@ $ git clone https://github.com/felipesgt/Proffy.git
 ```
 
 2. Rodando o aplicativo:
+### Server
 
 ```bash
-  # Instale as dependências do projeto.
-  $ yarn # ou npm install
-  # Inicie o Aplicativo
-  $ yarn start # ou npm start
-  ```
+
+# Entre na pasta server
+$cd server
+#Depois instale as dependencia com yarn
+$yarn
+#Rode o servidor
+$yarn start
+```
+
+### Web
+
+Primeiro tenha certeza que o Server ja está rodando
+
+```bash
+# Entre na pasta
+$ cd server
+# Start the client
+$ yarn web start
+```
+
+### Mobile
+
+Primeiro tenha certeza que o Server ja está rodando
+
+```bash
+# Verifique se o arquivo api.ts possui o IP fornecido pelo Expo
+#Inicie o client com o expo e escaneie o QR CODE
+$ yarn mobile start
+```
 
 
 
-
-   ## 📜 Licença
+## 📜 Licença
 
 Esse projeto está sob a licença MIT [LICENSE](LICENSE.md) 
 
