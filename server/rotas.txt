@@ -1,4 +1,0 @@
-- rota para listar o total de conexoes realizadas
-- rota para criar uma aula
-- listar aulas
-  - filtrar pro materia, dia da semana, horario
