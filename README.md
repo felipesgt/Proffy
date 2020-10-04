@@ -79,7 +79,7 @@ Primeiro tenha certeza que o Server ja está rodando
 # Entre na pasta
 $ cd server
 # Start the client
-$ yarn web start
+$ yarn start
 ```
 
 ### Mobile
