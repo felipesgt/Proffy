@@ -78,7 +78,7 @@ Primeiro tenha certeza que o Server ja está rodando
 ```bash
 # Entre na pasta
 $ cd server
-# Start the client
+# Inicie o projeto
 $ yarn start
 ```
 
@@ -89,7 +89,7 @@ Primeiro tenha certeza que o Server ja está rodando
 ```bash
 # Verifique se o arquivo api.ts possui o IP fornecido pelo Expo
 #Inicie o client com o expo e escaneie o QR CODE
-$ yarn mobile start
+$ yarn  start
 ```
 
 
